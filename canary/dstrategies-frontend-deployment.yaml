@@ -28,6 +28,6 @@ spec:
         resources: {}
         env:  
           - name: REACT_APP_BACK
-            value: http://dstrategies-back-online-<USERNAME>-canary.<OCP_APPS_DOMAIN>/dstrategies-back
+            value: http://dstrategies-back-online-romerobu-canary.apps.acidonpe24.sandbox2646.opentlc.com/dstrategies-back
           - name: REACT_APP_CATEGORY
             value: CANARY
